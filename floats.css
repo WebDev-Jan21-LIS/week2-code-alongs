@@ -1,0 +1,35 @@
+.box1 {
+    border: 1px solid red;
+    margin: 40px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.box2 {
+    border: 1px solid blue;
+    margin: 40px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.box3 {
+    border: 1px solid green;
+    margin: 40px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+.box4 {
+    border: 1px solid firebrick;
+    margin: 40px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    clear: both;
+}

@@ -1,0 +1,24 @@
+.parent {
+    height: 900px;
+}
+.box {
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#two {
+    background-color: green;
+}
+
+.text {
+    position: fixed;
+    background-color: blue;
+    color: white;
+    top: 0px;
+}
+
+img {
+    vertical-align: middle;
+}

@@ -1,0 +1,13 @@
+.container {
+    display: flex; /*inline-flex*/
+    width: 370px;
+    height: 500px;
+}
+
+.item {
+    border: 1px solid red;
+    width: 80px;
+    height: 80px;
+    margin: 5px
+}
+
